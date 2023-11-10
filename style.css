@@ -1,0 +1,23 @@
+h3 {
+    background: #ff00ff;
+    text-shadow: 0.1em 0.1em 0.05em #333;
+    color: #00fa9a;
+    width: 100%;
+    margin: 0px;
+}
+
+body {
+    background-size: cover;
+}
+
+.note {
+    font-size: 15px;
+}
+
+canvas {
+    border: 2px;
+    border-style: dashed;
+    border-color: #00fa9a;
+    background-color: #ff00ff;
+}
+
